@@ -1,0 +1,32 @@
+{
+  "api_base": "https://149.86.132.44",
+  "ca_sha256": "0e9c967b94e98ceb4c0b592b4ac5f987debe68453658b69adabe8dcb95a91da0",
+  "echo": {
+    "host": "149.86.132.44",
+    "port": 7770
+  },
+  "maintenance": false,
+  "min_build": 1,
+  "protocol": 1,
+  "rt_url": "wss://149.86.132.44/v1/rt",
+  "telemetry_sampling": {
+    "analytics": 1.0,
+    "taps": 1.0
+  },
+  "updated_at": 1790496044,
+  "version": 1,
+  "workers": [
+    {
+      "host": "149.86.132.44",
+      "port": 7777
+    },
+    {
+      "host": "149.86.132.44",
+      "port": 7778
+    },
+    {
+      "host": "149.86.132.44",
+      "port": 7779
+    }
+  ]
+}
