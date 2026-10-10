@@ -6,14 +6,14 @@
     "port": 7770
   },
   "maintenance": false,
-  "min_build": 164,
+  "min_build": 168,
   "protocol": 1,
   "rt_url": "wss://149.86.132.44/v1/rt",
   "telemetry_sampling": {
     "analytics": 1.0,
     "taps": 1.0
   },
-  "updated_at": 1791506791,
+  "updated_at": 1791619071,
   "version": 1,
   "workers": [
     {
